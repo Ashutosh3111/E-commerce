@@ -1,5 +1,5 @@
 # E-commerce
-This repository contains the source code for a fully functional e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform allows users to browse products, add them to a cart, and complete purchases. Admin functionality is also included, enabling product management, order tracking, and user administration.
+This repository contains the source code for a fully functional e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform allows users to browse products, add them to a cart. Admin functionality is also included, enabling product management, order tracking, and user administration.
 Features:
 
     User Authentication & Authorization: Secure user login, registration, and profile management.
